@@ -14,8 +14,6 @@ int main()
 	cout << "    v11:" << endl;
 	print(v11);
 
-	//
-	//Ìí¼Ó¹¦ÄÜ
 	vector <int>v1;
 	cout << "    v1:" << endl;
 	print(v1);

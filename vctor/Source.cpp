@@ -10,10 +10,16 @@ bool mycmpare(const int &a, const int &b) {
 }
 int main()
 {
-	
+	vector <int>v11;
+	cout << "    v11:" << endl;
+	print(v11);
+
+	//
+	//Ìí¼Ó¹¦ÄÜ
 	vector <int>v1;
 	cout << "    v1:" << endl;
 	print(v1);
+
 
 	vector <int> v2(5);
 	cout << "    v2:" << endl;
